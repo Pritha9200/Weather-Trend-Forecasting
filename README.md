@@ -11,9 +11,9 @@ air_quality_us-epa-index,	air_quality_gb-defra-index,	sunrise,	sunset,	moonrise,
 Our objective perform basic EDA to uncover the trends, correlations, and patterns.
 Generate visualizations for temperature and precipitation.
 
-Through temparature map, according to latitude and longitude and location map we can find the distribution among the countries has been shown.
-Through the bar chart the average tenparature of each countries has been shown.
-Through the scatter plot the temparature vs humidity is shown.
-Through a 3D scatter plot the correlation between wind, humidity and temperature has been shown.
-Through a calender heatmap the distribution of temparature in different cities or locations has been shown.
-Temperature, Humidity, and Wind Speed Trends for Top 10 Cities has been shown here.
+* Through temparature map, according to latitude and longitude and location map we can find the distribution among the countries has been shown.
+* Through the bar chart the average tenparature of each countries has been shown.
+* Through the scatter plot the temparature vs humidity is shown.
+* Through a 3D scatter plot the correlation between wind, humidity and temperature has been shown.
+* Through a calender heatmap the distribution of temparature in different cities or locations has been shown.
+* Temperature, Humidity, and Wind Speed Trends for Top 10 Cities has been shown here.
