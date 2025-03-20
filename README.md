@@ -1,5 +1,5 @@
 * About Data *
-This project contains a around 60000 datas related weather. 
+This project contains a around 60000 datas related weather and 40 featuers. 
 It containts country,	location_name,	latitude,	longitude,	timezone,	last_updated_epoch,	last_updated,	
 temperature_celsius,	temperature_fahrenheit,	condition_text,	wind_mph,	wind_kph,	wind_degree,	
 wind_direction,	pressure_mb,	pressure_in	precip_mm,	precip_in	humidity,	cloud,	feels_like_celsius,	
